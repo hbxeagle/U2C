@@ -1,0 +1,22 @@
+{
+  "name": "u2c",
+  "version": "0.0.1",
+  "description": "u2c",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbxeagle/U2C.git"
+  },
+  "author": "hbxeagle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbxeagle/U2C/issues"
+  },
+  "homepage": "https://github.com/hbxeagle/U2C#readme",
+  "dependencies": {
+    "jszip": "^3.2.2"
+  }
+}
