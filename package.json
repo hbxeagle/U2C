@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/hbxeagle/U2C#readme",
   "dependencies": {
-    "jszip": "^3.2.2"
+    "jszip": "^3.7.0"
   }
 }
